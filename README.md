@@ -55,7 +55,7 @@ I am exploring non-code paths into open source:
 
 ### Content channels
 
-- WeChat Official Account: 山畔青苗
+- WeChat Official Account
 - WeChat Channels
 - Douyin
 - Bilibili
