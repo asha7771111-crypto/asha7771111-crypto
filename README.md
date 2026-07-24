@@ -9,7 +9,7 @@
 I connect **technology, content, community, and users**—helping emerging
 technologies become easier to understand, adopt, and share.
 
-我是朱坷雯（阿杀），关注 AI、开源生态、技术教育与社区运营。
+我是阿杀，关注 AI、开源生态、技术教育与社区运营。
 
 ## About me
 
@@ -66,8 +66,8 @@ Public links will be added after verification.
 
 | Repository | Purpose | Status |
 |---|---|---|
-| `openfde-community-notes` | OpenFDE learning, user observations, and community notes | Preparing |
-| `ai-community-playbook` | Practical community operation frameworks and templates | Preparing |
+| [`openfde-community-notes`](https://github.com/asha7771111-crypto/openfde-community-notes) | OpenFDE learning, user observations, and community notes | Published · templates ready |
+| [`ai-community-playbook`](https://github.com/asha7771111-crypto/ai-community-playbook) | Practical community operation frameworks and templates | Published · templates ready |
 | `ai-tools-handbook` | Tested AI tools and beginner-friendly guides | Planned |
 | `ai-video-learning-cases` | AI short-video learning cases and teaching notes | Planned |
 | `open-source-learning-log` | Transparent open-source learning journal | Planned |
