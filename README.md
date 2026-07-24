@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="ASHA — AI Community Builder" width="100%" />
+  <img src="https://github.com/user-attachments/assets/95b7107e-5d77-4f66-929d-0742d63790de" alt="ASHA — AI Community Builder" width="100%" />
 </p>
 
 # Hi, I'm Asha 👋
